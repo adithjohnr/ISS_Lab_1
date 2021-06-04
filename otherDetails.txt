@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Roll:2020114010
 Branch:CLD
+=======
+Roll:2020114010
+Branch:CLD
+
+>>>>>>> other_details
